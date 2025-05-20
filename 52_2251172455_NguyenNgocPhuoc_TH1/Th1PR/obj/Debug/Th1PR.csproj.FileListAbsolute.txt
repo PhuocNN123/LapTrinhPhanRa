@@ -1,0 +1,7 @@
+D:\c#\Th1PR\Th1PR\bin\Debug\Th1PR.exe.config
+D:\c#\Th1PR\Th1PR\bin\Debug\Th1PR.exe
+D:\c#\Th1PR\Th1PR\bin\Debug\Th1PR.pdb
+D:\c#\Th1PR\Th1PR\obj\Debug\Th1PR.csproj.AssemblyReference.cache
+D:\c#\Th1PR\Th1PR\obj\Debug\Th1PR.csproj.CoreCompileInputs.cache
+D:\c#\Th1PR\Th1PR\obj\Debug\Th1PR.exe
+D:\c#\Th1PR\Th1PR\obj\Debug\Th1PR.pdb
